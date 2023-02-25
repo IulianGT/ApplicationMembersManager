@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "d0dd3105-62ab-0518-7306-ddafe4ff107a",
+      "name": "Alexia Draghin",
+      "email": "alexia@gmail.com",
+      "role": "Designer",
+      "notes": []
+    },
+    {
+      "id": "a5766cff-d3eb-0b49-89bb-4a730e0f6c6d",
+      "name": "Ion",
+      "email": "IonAlexandru.Meca@endava.com",
+      "notes": [],
+      "role": "Tester"
+    },
+    {
+      "id": "f2f64322-610b-2ed6-f7c9-002c6891309f",
+      "name": "Voicu Andrei",
+      "email": "voicu@gmail.com",
+      "role": "Developer",
+      "notes": []
+    },
+    {
+      "id": "61c54795-bba2-1d63-14cd-8493b39233f7",
+      "name": "Alexandra",
+      "email": "ale@gmail.com",
+      "notes": [],
+      "role": "Developer"
+    }
+  ]
+}
